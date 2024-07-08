@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    padding-top: 4em;
+}
+p{
+    /* text-align: center; */
+}
+span{
+    margin-right: 1.5em;
+}
+button{
+    font-size: 15px;
+    margin-top: 0.5em;
+}
+.mid-sec{
+    display: block;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* margin: auto; */
+    text-align: center;
+}
+.mid2{
+    text-align: center;
+    padding-top: 3em;
+}
+#results{
+    text-align: center;
+    margin-top: 1.5em;
+}
+#hstat{
+    text-align: center;
+    margin-top: 1.5em;
+}
