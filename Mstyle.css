@@ -19,3 +19,27 @@ nav {
     border-bottom: solid 1px rgb(170, 170, 170);
     background-color: #eee;
   }
+
+  .projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .project-link {
+    width: 50em;
+    background-color: #fff;
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+    margin-top: 5px;
+    text-align: center;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 5%;
+  }

@@ -1,0 +1,27 @@
+.main-box{
+    display: block;
+    text-align: center;
+}
+.box1{
+    background-color: grey;
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 10px;
+    padding-top: 20px;
+    height: 30em;
+    margin-top: 3em;
+}
+.inp{
+    height: 2.5em;
+}
+.btn{
+    background-color: black;
+    color: white;
+    height: 2.5em;
+    margin-top: 2em;
+    border-radius: 10px;
+    width: 13em;
+}
+.box2{
+    margin-top: 20px;
+}
