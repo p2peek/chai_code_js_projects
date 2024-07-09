@@ -1,0 +1,14 @@
+.mid-sec{
+    display: block;
+    text-align: center;
+    margin-top: 25em;
+}
+.box{
+    height: 4em;
+    width: 15em;
+    background-color: orange;
+    margin-left:44%;
+    margin-top: 50px;
+    border-radius: 10px;padding-top: 20px;
+
+}
